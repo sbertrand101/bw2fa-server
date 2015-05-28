@@ -1,0 +1,30 @@
+{
+  "name": "bw2fa-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "hapi": "~8.4.0",
+    "joi": "~6.1.0",
+    "bluebird": "~2.9.24",
+    "iron": "~2.1.2",
+    "node-bandwidth": "~1.0.8",
+    "lodash": "~3.6.0",
+    "good": "~6.1.2",
+    "good-console": "~5.0.0",
+    "hapi-auth-basic": "~2.0.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jshint": "~0.11.1",
+    "grunt-jscs": "~1.6.0",
+    "chai": "~2.3.0",
+    "nock": "~1.9.0",
+    "mocha": "~2.2.4",
+    "istanbul": "~0.3.13",
+    "grunt-mocha-istanbul": "~2.4.0"
+  }
+}

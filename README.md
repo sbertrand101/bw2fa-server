@@ -73,8 +73,8 @@ heroku open
     https://api.catapult.inetwork.com
 
 ## Node.js Client Implementation
-
-**TODO:** [bw2fa-client](/)
+Example client implementation written with node.js
+[bw2fa-client-nodejs](https://github.com/BandwidthExamples/bw2fa-client-nodejs)
 
 ## Technical
 

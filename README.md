@@ -87,7 +87,7 @@ field.  The user should then submit their session token and verification
 code back to be validated by bw2fa-server.  This process is described in
 the following image:
 
-**TODO:** ![bw2fa-server sequence diagram](/)
+![bw2fa-server sequence diagram](/images/bw2fa-sequence.jpeg)
 
 bw2fa-server is completely stateless so it supports scaling horizontally if
 needed.

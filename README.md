@@ -1,7 +1,9 @@
-bw2fa-server
-============
+<div align="center">
 
-## Quick Start
+# Bandwidth BW2Fa-Server
+
+<a href="http://dev.bandwidth.com"><img src="https://s3.amazonaws.com/bwdemos/BW-VMP.png"/></a>
+</div>
 
 bw2fa-server is a standalone two factor auth service that only requires
 [Catapult](https://catapult.inetwork.com) credentials to start!  The server
@@ -12,6 +14,7 @@ git clone git@github.com:BandwidthExamples/bw2fa-server.git
 cd bw2fa-server
 npm install
 ```
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Local Deployments
 

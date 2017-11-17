@@ -5,6 +5,10 @@
 <a href="http://dev.bandwidth.com"><img src="https://s3.amazonaws.com/bwdemos/BW-VMP.png"/></a>
 </div>
 
+<div align="center"> 
+<b>This application is outdated, but will be updated soon!</b><br><br>
+</div> 
+
 bw2fa-server is a standalone two factor auth service that only requires
 [Catapult](https://catapult.inetwork.com) credentials to start!  The server
 requires very little configuration.  Start by cloning our github repository:
